@@ -1,0 +1,5 @@
+| Title                                                                         | Quick Description                                                                                                       | Language | Grade |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------|-------|
+| [Lab 1](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab1)                 | Handout of SQL injection and XSS attacks                                                                                | agnostic | 5.4   |
+| [Lab 2 - Validation](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab2)    | Implementation of robust input validation frameworks and passwordless authentication using WebAuthn/Passkeys            | Rust 🦀  | 6     |
+| [Lab 3 - Authorization](https://github.com/qsurdez-heigvd/SLH/tree/main/Lab3) | Development of Attribute-Based Access Control (ABAC) using Casbin policy engine with fine-grained permission management | Rust 🦀  | 6     |
